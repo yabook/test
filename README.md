@@ -6,7 +6,7 @@ test
   
 test2 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://avatars0.githubusercontent.com/u/1142544?s=460)
 [GitHub](http://github.com)
 
 As Kanye West said:
